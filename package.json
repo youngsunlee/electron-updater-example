@@ -1,6 +1,6 @@
 {
   "name": "youngsunleeelectron-updater-example",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Matt Haggard",
@@ -20,7 +20,8 @@
       {
         "provider": "github",
         "owner": "youngsunlee",
-        "repo": "electron-updater-example"
+        "repo": "electron-updater-example",
+        "token": "33b1afb8fda6e481741cc727bdb8c69b058b7a2e"
       }
     ],
     "appId": "com.github.youngsunlee.electronupdaterexample",
